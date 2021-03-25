@@ -1,0 +1,11 @@
+body {
+    color: #1a1818;
+}
+
+.jumbotron {
+    background-image: url("../images/testalize-me-0jE8ynV4mis-unsplash.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(236, 230, 230);
+    
+}
