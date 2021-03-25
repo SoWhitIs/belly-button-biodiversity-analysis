@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Bellybutton Biodiversity</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+
+  <body style=background-color:rgb(197,169,169)>
+    <div clas="wrapper">
+      <div class="jumbotron">
+        <h1 style="color:rgb(240, 222, 222);">Belly Button Biodiversity Dashboard</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+      <h6 style="text-align:right">Photo by <a
+          href="https://unsplash.com/@testalizeme?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Testalize.me</a>
+        on <a
+          href="/s/photos/laboratory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+      </h6>
+    </div>
+    
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4">
+        <h2 style="align-self: center; color: rgb(165, 42, 42);">Improbable Beef <u><i>thanks you</i></u> for participating in our study!</h2>
+  
+      </div>
+      <div class="col-md-8">
+        <p style="color:rgb(95, 39, 20);">
+         Did you know there are certain proteins that can be synthesized to protein to taste like beef? These Operational Taxonomic Units, or OTUs for short, or <i>simply, bacteria</i> can be found on the human body…specifically, in the belly button. Yes, the belly button! <br><br> Are you curious to know, what Operational Taxonomic Units or bacteria lies within <i> your</i> belly button? <br><br> Well, look at the dashboard below! <br><br> Select your candidate (participant) number from the drop-down menu to see the top ten bacteria that has made home in your belly button. You and your belly button could be the answer to the next beef!
+        </p>
+      </div>
+    </div>
+  </div>
+    
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Belly Button Biodiversity</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="index.html">All Dashboards</a></li>
+          <li><a href="#bar">Top Ten Bacteria Cultures Found</a></li>
+          <li><a href="#bubble">Bacteria Cultures Per Sample</a></li>
+          <li><a href="#gauge">Belly Button Washing Frequency</a></li>
+        </ul>
+      </div>
+    </nav>
+    
+    
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Test Subject ID No.:</h5>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Demographic Info</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="static/js/charts.js"></script>
+
+  </body>
+
+</html>
