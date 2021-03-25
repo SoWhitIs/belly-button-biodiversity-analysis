@@ -33,12 +33,13 @@ The [Belly Button Biodiversity Dashboard](https://sowhitis.github.io/belly-butto
 
 * Yellow Box: Users can select their number from the drop down menu and an individualized snapshot of what bacteria was found from their donations will be presented. 
 
-
 * Orange Box: Just above the navigation bar a brief description of the project and a “thank you” to participants. 
 
 * Green Box: Each chart can be accessed individually from the navigation menu just below the introductory title jumbotron. 
 
     * To reset the dashboard, user can simply click “All Dashboards” or refresh the page. 
+
+* Purple/Blueish Box: View of Chats After volunter has selected _their_ number. 
 
  Experience the [dashboard!](https://sowhitis.github.io/belly-button-biodiversity-analysis/)
 
