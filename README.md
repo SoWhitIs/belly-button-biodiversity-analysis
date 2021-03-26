@@ -8,7 +8,7 @@ To jump start this quest, belly button bacteria cultures were collected by volun
 
 Post collection trial, findings were presented through a constructed dashboard, where volunteers can view the most common OTUs uncovered in their respective belly button, by selecting their participant/candidate number from a dropdown menu. More details on the Belly Button Biodiversity Dashboard, [below.](https://github.com/SoWhitIs/belly-button-biodiversity-analysis#belly-button-biodiversity-dashboard)
 
-Improbable Beef also has access to these results and will potentially follow up with said candidate(s) should once deemed a suitable match. 
+Improbable Beef also has access to these results and will potentially follow up with said candidate(s)that are suitable match. 
 
 ## Resources
 * Data Source(s): [samples.json](https://github.com/SoWhitIs/belly-button-biodiversity-analysis/blob/35fba3d2b456ff1c57c80007996ae01e93b8c165/samples.json)
