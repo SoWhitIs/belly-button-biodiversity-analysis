@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Improbable Beef, a food start-up is search of the next _beef_! With the help of a biological researcher, from a prominent microbiology laboratory, has found that very protein needed to create this new beef alternative lies in the bacteria found in the human belly button. 
+Improbable Beef, a food start-up is search of the next _beef_ ! With the help of a biological researcher, from a prominent microbiology laboratory, has found that very protein needed to create this new beef alternative lies in the bacteria found in the human belly button. 
 
 To jump start this quest, belly button bacteria cultures were collected by volunteers and classified by Operational Taxonomic Units, or OTUs specifying bacteria type. The study included donations from both male and female participants of varied geographic residencies, ethnicities, and age. It was determined that at least 10 types of bacteria that “reside” in the human belly button would be a perfect match to synthesize beef or beef life protein. 
 
