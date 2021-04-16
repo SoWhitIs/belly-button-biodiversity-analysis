@@ -43,6 +43,7 @@ The [Belly Button Biodiversity Dashboard](https://sowhitis.github.io/belly-butto
 
  Experience the [dashboard!](https://sowhitis.github.io/belly-button-biodiversity-analysis/)
 
+---
 
 #### Author
 _Whitney D. Gardner_
